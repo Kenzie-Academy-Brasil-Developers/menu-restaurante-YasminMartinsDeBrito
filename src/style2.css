@@ -10,11 +10,11 @@ h1 {font-family: 'Bungee Inline', cursive; font-size: 46px; font-weight: lighter
 #menu {columns: 420px 2; column-gap: 60px;}
 section {margin-bottom: 20px; padding: 10px;}
 
-h2 {margin-top: 0; text-transform: uppercase;}
+h2 {margin-top: 0; font-variant: small-caps;}
 
 #starters, #desserts {border: 2px solid black;}
 
-dt {display: inline;font-weight: bold; font-size: 16px;}
+dt {display: inline;font-weight: bold;font-size: 20px;  font-size: 16px;}
 dt::after{content:", ";}
 
 dd {display: inline; margin: 0;}

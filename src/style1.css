@@ -10,7 +10,7 @@ h1{font-family: 'Supermercado One', cursive; color:#5d4037;font-size: 45px;}
 #menu {columns: 400px 2; column-gap: 100px; column-rule: 2px dashed rosybrown;}
 section {margin-bottom: 50px;}
 
-h2 {margin: 0;font-weight: bold; color:#6d4c41; font-size: 20px; text-transform: uppercase;}
+h2 {margin: 0; color:#6d4c41;text-transform: uppercase;}
 
 dt {font-size: small-caps;font-weight: bold;}
 

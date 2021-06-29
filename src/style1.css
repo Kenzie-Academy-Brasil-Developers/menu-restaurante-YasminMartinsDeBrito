@@ -12,7 +12,7 @@ section {margin-bottom: 50px;}
 
 h2 {margin: 0; color:#6d4c41;text-transform: uppercase;}
 
-dt {font-size: small-caps;font-weight: bold;}
+dt {font-variant: small-caps;font-weight: bold;}
 
 dd {margin: 0 0 12px 0; display: flex;}
 
